@@ -1,2 +1,26 @@
-# Selenium_MMT_automation
-This is the repository containing the code to automate Make My Trip (MMT) using testing tool called Selenium. 
+# Make_my_trip_automation
+
+Selenium Testing automation of Make my trip website using Java
+
+- This project makes use of **Selenium** to perform automation testing on the **"railway booking"** present in the **Make My Trip** website
+- What makes this project different are some of the additional testing features included :
+  
+   1. Data driven
+  
+   2. Parallel execution
+  
+   3. Screenshot Highlight
+  
+   4. Download page as pdf
+  
+   5. Selecting date
+  
+   6. Getting cookie data
+  
+   7. Window handles
+
+
+https://github.com/shravn-10/Make_my_trip_automation/assets/109055682/1234cc37-e233-405b-a772-6e194d855201
+
+
+
